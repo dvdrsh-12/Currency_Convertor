@@ -1,0 +1,8 @@
+com/example/dto/ExchangeRatesResponse.class
+com/example/App.class
+com/example/dto/ConversionRequest.class
+com/example/exception/GlobalExceptionHandler.class
+com/example/dto/ConversionResponse.class
+com/example/exception/GlobalExceptionHandler$ErrorResponse.class
+com/example/service/CurrencyService.class
+com/example/controller/CurrencyController.class
